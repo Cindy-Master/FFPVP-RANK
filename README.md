@@ -1,0 +1,2 @@
+# FFPVP-RANK
+FF14排行榜
